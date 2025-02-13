@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "chair1",
+        "description": "A chair is a piece of furniture designed for sitting, typically featuring a seat, four legs, a backrest, and sometimes armrests. Chairs come in various styles, materials, and designs to serve different purposes, from simple wooden dining chairs to ergonomic office chairs with adjustable features.",
+        "image": "chair1.png",
+        "price": 2000
+    },
+    {
+        "id": 2,
+        "name": "chair2",
+        "description": "A chair is a piece of furniture designed for sitting, typically featuring a seat, four legs, a backrest, and sometimes armrests. Chairs come in various styles, materials, and designs to serve different purposes, from simple wooden dining chairs to ergonomic office chairs with adjustable features.",
+        "image": "chair2.png",
+        "price": 2000
+    },
+    {
+        "id": 3,
+        "name": "chair3",
+        "description": "A chair is a piece of furniture designed for sitting, typically featuring a seat, four legs, a backrest, and sometimes armrests. Chairs come in various styles, materials, and designs to serve different purposes, from simple wooden dining chairs to ergonomic office chairs with adjustable features.",
+        "image": "chair3.png",
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "name": "chair4",
+        "description": "A chair is a piece of furniture designed for sitting, typically featuring a seat, four legs, a backrest, and sometimes armrests. Chairs come in various styles, materials, and designs to serve different purposes, from simple wooden dining chairs to ergonomic office chairs with adjustable features.",
+        "image": "chair4.png",
+        "price": 2000
+    },
+    {
+        "id": 5,
+        "name": "chair5",
+        "description": "A chair is a piece of furniture designed for sitting, typically featuring a seat, four legs, a backrest, and sometimes armrests. Chairs come in various styles, materials, and designs to serve different purposes, from simple wooden dining chairs to ergonomic office chairs with adjustable features.",
+        "image": "chair5.png",
+        "price": 4000
+    }
+]
